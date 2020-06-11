@@ -1,0 +1,21 @@
+[0608/175014.256:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.309:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.310:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.310:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.310:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.310:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.329:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0608/175014.273:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.329:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.268:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.256:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.242:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.248:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.310:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 10364 not found in process
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 6172 not found in process
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 10912 not found in process
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 10236 not found in process
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 9336 not found in process
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 12736 not found in process
+[0608/175014.550:ERROR:exception_snapshot_win.cc(98)] thread ID 8728 not found in process
